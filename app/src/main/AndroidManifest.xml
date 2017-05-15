@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="android.permission.ACCESS_NETWORK_STATE"
     package="id.sch.smktelkom_mlg.privateassignment.xirpl235.moovie">
 
     <application
